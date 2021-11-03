@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cadastrar"
+        android:icon="@drawable/ic_menu_24"
+        android:title="Cadastrar" />
+    <item android:id="@+id/atualizar"
+        android:icon="@drawable/ic_menu_24"
+        android:title="Atualizar" />
+    <item android:id="@+id/remover"
+        android:icon="@drawable/ic_menu_24"
+        android:title="Remover" />
+</menu>
