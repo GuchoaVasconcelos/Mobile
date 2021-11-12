@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5A7C7E</color>
+    <color name="colorPrimaryDark">#141518</color>
+    <color name="colorAccent">#B87820</color>
+    <color name="fundoApp">#ABC1AC</color>
+    <color name="fontApp">#2A2B25</color>
+    <color name="botoes">#338498</color>
+    <color name="editAndList">#D3FFFFFF</color>
+</resources>
